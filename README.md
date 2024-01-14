@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 Novice, willing to figure out this whole github thing.
+
+- 🔭 I’m currently working on ...
+  Creating a personal website, and renovating my business website with a new domain and hosting on porkbun. Also, starting a habit of writing more, so I figure a substack newsletter is a good route. 
+- 🌱 I’m currently learning ...
+  Coding, basic website design, incorporating AI, understanding web3
+- 👯 I’m looking to collaborate on ...  🤔 AND I’m looking for help with ...
+  Help with a community website and app aimed at providing guidance, resources, networking and skill development for those entering or seeking to navigate the economics of life through career or business.
+- 💬 Ask me about ...
+  More details about what I have built in the past, have in the works, and that I'm looking to create.
+- 📫 How to reach me: ... 502-500-1888
+- 😄 Pronouns: What the hell is even that
+- ⚡ Fun fact: ... I can drive a manual transmission vehicle without needing the clutch while not harming the drivetrain
 
 <!--
 **lou-Nosmada/lou-Nosmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
